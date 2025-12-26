@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Training outputs
+outputs/
+checkpoints/
+*.pt
+*.pth
+
+# Data (optional)
+data/raw/
+data/clean/
+data/train.txt
+
+# OS
+.DS_Store
