@@ -4,9 +4,7 @@ __pycache__/
 venv/
 
 # Training outputs
-outputs/
 checkpoints/
-*.pt
 *.pth
 
 # Data (optional)
